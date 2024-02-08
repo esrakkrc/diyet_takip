@@ -1,0 +1,213 @@
+{
+
+
+
+
+
+
+
+    "60": {
+        "pazartesi": {
+            "sabah":"Yulaf ezmesi,Peynir,Salatalık",
+            "öğle": "Smoothie,Somon,Makarna",
+            "ara1": "1 fincan sütlü kahve",
+            "ara2": "Yeşil elma",
+            "akşam": "Tam buğday ekmeği,Brokoli,Tavuk göğsü salatası"
+        },
+        "salı": {
+            "sabah": "Smoothie,Yeşil zeytin,Roka",
+            "öğle": "Izgara tavuk,Nohutlu yeşil salata",
+            "ara1": "Yoğurt,Meyve,Ceviz",
+            "ara2": "Kefir,Fesleğenli domates dilimleri",
+            "akşam": "Hindi göğsü,sebze,"
+        },
+        "çarsamba": {
+            "sabah": "Tahıl gevreği,badem sütü,Salatalık",
+            "öğle": "Buharda pişirilmiş sebze salatası",
+            "ara1": "Badem,Kefir",
+            "ara2": "Avokado sandviç",
+            "akşam": "Bulgur pilavı ,brokoli,Yeşil salata"
+        },
+        "persembe": {
+            "sabah": "smothie,brokoli,salatalık",
+            "öğle": "Izgara tavuk göğsü veya ızgara somon balığı",
+            "ara1": "Light yoğurt veya meyveli yoğurt",
+            "ara2": "Smoothie",
+            "akşam": "ızgara balık,Yeşillik"
+        },
+        "cuma": {
+            "sabah": "yaban mersinli yulaf,Yarım yağlı süt,salatalık",
+            "öğle": "Haşlanmış kabak,Light yoğurt",
+            "ara1": "Bir avuç badem veya ceviz",
+            "ara2": "Bir adet orta boy elma veya bir dilim ananas",
+            "akşam": "Buğulanmış yeşil fasulye,Kepek ekmeği"
+        },
+        "cumartesi": {
+            "sabah": "Avokado,Haşlanmış yumurta,salatalık",
+            "öğle": "Havuç veya salatalık dilimleri ile birlikte humus",
+            "ara1": "Yeşil çay",
+            "ara2": "Bir avuç badem veya ceviz",
+            "akşam": "Quinoa pilavı üzerine ızgara sebzeler"
+        },
+        "pazar": {
+            "sabah": "yaban mersini ve chia tohumlu yoğurt",
+            "öğle": "Bir kase karışık yeşillik salata",
+            "ara1": "Bir adet orta boy meyve ",
+            "ara2": "Smoothie",
+            "akşam": "Haşlanmış tatlı patates,Buğulanmış brokoli ve havuç"
+        }
+    },
+    "80": {
+        "pazartesi": {
+            "sabah": "Haşlanmış yumurta,Zeytin,Salatalık",
+            "öğle": "Bitki çayı,sebze salatası",
+            "ara1": "chia tohumlu yoğurt",
+            "ara2": "Bir avuç badem",
+            "akşam": "Ispanak,Bulgur pilavı"
+        },
+        "salı": {
+            "sabah": "Yulaf ezmesi,Hindi füme,Yeşil zeytin",
+            "öğle": "Glutensiz bisküvi,Yeşil çay",
+            "ara1": "Bir avuç ceviz",
+            "ara2": "Avokado salatası",
+            "akşam": "Havuç veya salatalık dilimleri ile birlikte humus"
+        },
+        "çarsamba": {
+            "sabah": "Sade wasa,Şekersiz fıstık ezmesi,",
+            "öğle": "2 kepçe sebze çorbası",
+            "ara1": "1 küçük çay bardağı leblebi",
+            "ara2": "smothie,brokoli,salatalık",
+            "akşam": "Fırın sebze,Tam tahıllı ekmek"
+        },
+        "persembe": {
+            "sabah": "Yulaf ezmesi,Badem sütü",
+            "öğle": "Izgara/fırın tavuk",
+            "ara1": "smothie,brokoli,salatalık",
+            "ara2": "smothie,brokoli,salatalık",
+            "akşam": "Yoğurtlu Makarna Salatası,brokoli,salatalık"
+        },
+        "cuma": {
+            "sabah": "1 su bardağı kefir, 100 gr meyve karışımı",
+            "öğle": "4 kaşık haşlanmış yeşil mercimek",
+            "ara1": "1 fincan sade kahve",
+            "ara2": " 1 adet meyve",
+            "akşam": "2 kepçe çorba,300 g ızgara/fırın balık"
+        },
+        "cumartesi": {
+            "sabah": "Smoothie",
+            "öğle": "120 g ton balıklı salata",
+            "ara1": " 6 adet badem",
+            "ara2": "Yeşil çay",
+            "akşam": "3 adet ızgara köfte ,4 yemek kaşığı pilav"
+        },
+        "pazar ": {
+            "sabah": "Kakaolu Yulaf Lapası, 1 su bardağı süt",
+            "öğle": "Kefir,Smoothie",
+            "ara1": "Kakaolu Top",
+            "ara2": "4-5 adet hurma",
+            "akşam": "Sebze yemeği,Naneli ayran"
+        }
+    },
+    "150": {
+        "pazartesi": {
+            "sabah": "1 dіlіm pеynіr ya da 1 tаnе yumurta",
+            "öğle": "mаydаnoz, rokа vе dеrеotu, tеrе limon soslu",
+            "ara1": "Şеkеrsіz çаy ya da bitki çayı",
+            "ara2": "Bir avuç badem veya ceviz",
+            "akşam": "1 kаsе çorbа"
+        },
+        "salı": {
+            "sabah": "1 bаrdаk yoğurt vе 2 kаşık yulаf ",
+            "öğle": "1 tane mеvsіm mеyvеsі",
+            "ara1": "Yeşil çay",
+            "ara2": "Ceviz",
+            "akşam": "5 kаşık zеytіn yаğlı yеmеk"
+        },
+        "çarsamba": {
+            "sabah": "domates, salatalık, biber,",
+            "öğle": "1 kase mercimek çorbası ",
+            "ara1": "5 tam ceviz içi",
+            "ara2": "Bitki çayı",
+            "akşam": "1 kase bol domatesli, salatalıklı semizotu salatası"
+        },
+        "persembe": {
+            "sabah": "1 porsiyon yağsız salata",
+            "öğle": "Kırmızı et",
+            "ara1": "1 porsiyon mevsim meyvesi",
+            "ara2": "salata",
+            "akşam": "Çorba,Sebze yemeği"
+        },
+        "cuma": {
+            "sabah": "Smoothie",
+            "öğle": "2 adet galete",
+            "ara1": "Ayran",
+            "ara2": "Yağsız salata baharatlı limon soslu",
+            "akşam": "Ton balıklı makarna"
+        },
+        "cumartesi": {
+            "sabah": "1 adet haşlanmış yumurta, Domates, salatalık",
+            "öğle": "Smoothie",
+            "ara1": " 1 kaşık kuru üzüm",
+            "ara2": "Haşlanmış brokoli",
+            "akşam": "1 porsiyon etsiz sebze yemeği"
+        },
+        "pazar ": {
+            "sabah": "5 adet zeytin,Domates, Salatalık:",
+            "öğle": "1 kase kadar yoğurt",
+            "ara1": "3 tane diyet bisküvi",
+            "ara2": "Yeşil çay",
+            "akşam": "2 tane etli biber dolması"
+        }
+    },
+    "200": {
+        "pazartesi": {
+            "sabah": "1/4 kâse salsa",
+            "öğle": "4 kâse körpe ıspanak",
+            "ara1": "60 gram kaju",
+            "ara2": "kefir",
+            "akşam": "1 konserve iri parça light ton balığı"
+        },
+        "salı": {
+            "sabah": "2 ölçek whey protein",
+            "öğle": "badem",
+            "ara1": "1 fincan sütlü kahve",
+            "ara2": "ceviz",
+            "akşam": "1/2 kâse dilimlenmiş mantar"
+        },
+        "çarsamba": {
+            "sabah": "Yulaf ezmesi,badem sütü",
+            "öğle": " 1 kase yağsız yoğurt",
+            "ara1": "Yeşil çay",
+            "ara2": "bir avuç leblebi",
+            "akşam": "ızgara balık,Yeşillik"
+        },
+        "persembe": {
+            "sabah": "yaban mersini ve chia tohumlu yulaf",
+            "öğle": " tahıl ilaveli yoğurt",
+            "ara1": "Yeşil çay",
+            "ara2": "ceviz",
+            "akşam": "Buharda pişirilmiş sebze yemeği"
+        },
+        "cuma": {
+            "sabah": "Yeşil zeytin,peynir",
+            "öğle": "Yoğurtlu sebze püresi",
+            "ara1": "Salata",
+            "ara2": "Smoothie",
+            "akşam": "Ton balıklı salata"
+        },
+        "cumartesi": {
+            "sabah": "Domates,Salatalık,Peynir",
+            "öğle": "Haşlanmış brokoli",
+            "ara1": "Ceviz",
+            "ara2": "Smoothie",
+            "akşam": "Izgara tavuk"
+        },
+        "pazar ": {
+            "sabah": "Yulaf ezmesi",
+            "öğle": "Yeşil elma",
+            "ara1": "Naneli ayran",
+            "ara2": "Badem",
+            "akşam": "Buharda pişirilmiş enginar "
+        }
+    }
+}
